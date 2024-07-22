@@ -1,5 +1,5 @@
 
-# minesweeperminiapptelegram
+# BOOM! Token
 MineSweeper | a Minesweeper is about to BOOM!
 
 <p align="center">
