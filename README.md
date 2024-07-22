@@ -1,11 +1,7 @@
-<<<<<<< HEAD
-# boomtoken
-MineSweeper | a Minesweeper is about to BOOM!
-=======
-<<<<<<< HEAD
+
 # minesweeperminiapptelegram
 MineSweeper | a Minesweeper is about to BOOM!
-=======
+
 <p align="center">
   <br>
   <img width="240" src="./assets/tapps.png" alt="logo of telegram web apps">
@@ -65,5 +61,3 @@ If you'd like to contribute to this project, please follow these steps:
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
->>>>>>> master
->>>>>>> master
